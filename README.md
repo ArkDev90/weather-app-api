@@ -33,8 +33,6 @@ A Laravel backend API that connects to Geoapify for city details and OpenWeather
 
     - Security is a top priority in our code implementation. We follow Laravel's security best practices, such as input validation to protect against common security vulnerabilities and ensure the safety of user data.
 
-5. **Clear and Concise Documentation:**
-    - We provide comprehensive documentation for our API endpoints, including usage examples and response formats. Clear documentation makes it easy for developers to understand and integrate with our API, reducing the learning curve and promoting adoption.
 
 ## Conclusion
 
